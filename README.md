@@ -1,5 +1,5 @@
 ### Hi there 👋, Geethan Chanaka
-#### Full stack mobile developer
+####  Mobile developer
 
 I'm from SriLanka, I'm a mobile Developer
 
